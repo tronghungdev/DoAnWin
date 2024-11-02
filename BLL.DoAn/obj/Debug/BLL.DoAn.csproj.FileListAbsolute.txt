@@ -1,0 +1,15 @@
+C:\Users\trong\source\repos\BLL.DoAn\bin\Debug\BLL.DoAn.dll.config
+C:\Users\trong\source\repos\BLL.DoAn\bin\Debug\BLL.DoAn.dll
+C:\Users\trong\source\repos\BLL.DoAn\bin\Debug\BLL.DoAn.pdb
+C:\Users\trong\source\repos\BLL.DoAn\bin\Debug\EntityFramework.dll
+C:\Users\trong\source\repos\BLL.DoAn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trong\source\repos\BLL.DoAn\bin\Debug\EntityFramework.xml
+C:\Users\trong\source\repos\BLL.DoAn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trong\source\repos\BLL.DoAn\obj\Debug\BLL.DoAn.csproj.AssemblyReference.cache
+C:\Users\trong\source\repos\BLL.DoAn\obj\Debug\BLL.DoAn.csproj.CoreCompileInputs.cache
+C:\Users\trong\source\repos\BLL.DoAn\obj\Debug\BLL.DoAn.csproj.Up2Date
+C:\Users\trong\source\repos\BLL.DoAn\obj\Debug\BLL.DoAn.dll
+C:\Users\trong\source\repos\BLL.DoAn\obj\Debug\BLL.DoAn.pdb
+C:\Users\trong\source\repos\BLL.DoAn\bin\Debug\DAL.D.dll
+C:\Users\trong\source\repos\BLL.DoAn\bin\Debug\DAL.D.pdb
+C:\Users\trong\source\repos\BLL.DoAn\bin\Debug\DAL.D.dll.config
